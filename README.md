@@ -3,7 +3,7 @@
 Cloud Engineering, CS, Java, Python, DevOps
 
 - 🌱 I’m currently learning ...
-    STEM Degree with Open University, UK - Specialising in Computing and IT (half of 3rd level remaining, predicted 1st class honours)
+    STEM Degree with Open University, UK - Specialising in Computing and IT (half of 3rd level remaining, predicted 1st class honours), \n
     C++
     
 - 💞️ I’m looking to collaborate on ...
